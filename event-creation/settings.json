@@ -1,0 +1,21 @@
+{
+    "NAMING_CONVENTION": [],
+    "WORDS_REMOVE": [],
+    "NAMING_FOR_LOOPS": "Loop",
+    "SOUND_NAMING_FOR_LOOPS": [
+        "Loop"
+    ],
+    "WORDS_NOT_CAPITALIZE": [],
+    "PLAY_NAMING_CONVENTION": "",
+    "STOP_NAMING_CONVENTION": "",
+    "INHERIT_NAME_FROM_PARENT": false,
+    "STOP_EVENT_FOR_LOOPS": true,
+    "LETTER_CASE_EVENT_NAME": "upper",
+    "PLAY_LOOP_FADE_TIME": 0.5,
+    "STOP_LOOP_FADE_TIME": 0.5,
+    "SEEK_ACTION_FOR_LOOPS": true,
+    "SEEK_Percent": 50.0,
+    "SEEK_RANDOM_MIN": -45.0,
+    "SEEK_RANDOM_MAX": 45.0,
+    "WAAPI_URL": ""
+}
