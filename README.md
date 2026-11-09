@@ -1,3 +1,5 @@
+💡 Note: This instruction applies to source code only. If you prefer to use the pre-compiled .exe without setting up Python, grab the ready-to-use version from the [Releases page](https://github.com/WarppAudio/wwise-event-creation/releases/tag/Event-Creation-v2.0.0).
+
 # 🎮 Wwise Event Creation Tool
 
 Creates Play / Stop / Seek events for the objects selected in Wwise (via WAAPI),
