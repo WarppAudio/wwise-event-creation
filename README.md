@@ -232,11 +232,11 @@ requirements.txt               Python dependencies
 
 - Prefix for Play events, e.g. `Play` → `Play_Rifle_Shot` (the `_` is added automatically). Leave empty for no prefix.
 
-- You can use the **$parent** wildcard to put the name of the destination Work Unit / folder anywhere in the prefix: `Play_$parent` ‚Üí `Play_Weapons_Rifle_Shot`.
+- You can use the **$parent** wildcard to put the name of the destination Work Unit / folder anywhere in the prefix: `Play_$parent` → `Play_Weapons_Rifle_Shot`.
 
 4. **Stop Events Prefix**
 
-- Prefix for Stop events (created for loops only, see 10), e.g. `Stop` ‚Üí `Stop_Rain_Loop`.
+- Prefix for Stop events (created for loops only, see 10), e.g. `Stop` →  `Stop_Rain_Loop`.
 
 - Same rules and **$parent** wildcard as the Play prefix. Use a different prefix than for Play events, otherwise the Stop event would get the same name and be skipped.
 
