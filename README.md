@@ -16,7 +16,7 @@ optionally together with a new Work Unit or virtual folder, in a single operatio
    py -3 -m pip install -r requirements.txt
    ```
 
-2. Open the Wwise Add-ons folder: `%APPDATA%\Audiokinetic\Wwise\Add-ons` (create it if it does not exist).
+2. If you want the tools to be available in every Wwise installation and project open the Wwise Add-ons folder: `%APPDATA%\Audiokinetic\Wwise\Add-ons` (create it if it does not exist). For other installation methods, watch [this video](https://youtu.be/7LpANxZD1cE?si=pCo8zNlsRYKFv5zi&t=60) or read [this document](https://www.audiokinetic.com/fr/library/edge/?source=SDK&id=defining_custom_commands.html)
 
 3. Copy the files from this repository:
 
