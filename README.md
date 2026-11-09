@@ -98,11 +98,11 @@ requirements.txt               Python dependencies
 
 - **Project name**: the name of the connected Wwise project (`TEST_Wwise_2026` on the screenshot).
 
-- **Live status**: describes exactly what will happen when you click Create Events, e.g. `5 events ‚Üí \Events\Default Work Unit\Weapons`. The event count follows your selection in Wwise in real time and already includes the extra Stop events for loops.
+- **Live status**: describes exactly what will happen when you click Create Events, e.g. `5 events →  \Events\Default Work Unit\Weapons`. The event count follows your selection in Wwise in real time and already includes the extra Stop events for loops.
 
 - When something is missing, a yellow hint tells you what to do:
 
-  - `start Wwise and press ‚ü≥ to connect`
+  - `start Wwise and press ⟳ to connect`
   - `! select a destination in the list`
   - `! fix the highlighted fields in Settings`
   - `! fix the container name`
@@ -230,7 +230,7 @@ requirements.txt               Python dependencies
 
 3. **Play Events Prefix**
 
-- Prefix for Play events, e.g. `Play` ‚Üí `Play_Rifle_Shot` (the `_` is added automatically). Leave empty for no prefix.
+- Prefix for Play events, e.g. `Play` → `Play_Rifle_Shot` (the `_` is added automatically). Leave empty for no prefix.
 
 - You can use the **$parent** wildcard to put the name of the destination Work Unit / folder anywhere in the prefix: `Play_$parent` ‚Üí `Play_Weapons_Rifle_Shot`.
 
